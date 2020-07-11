@@ -1,0 +1,43 @@
+Boa Tarde, Meu nome é Sara e faço parte da SmartMuuuú... Somos a equipe número 5 do hackathon Campus Party Goiás. (apresentação)
+
+Imagina que você faz um grande investimento na área agropecuária, tivesse adquirido varios gados. 
+Você saberia exatamente se eles estao em sua propiedade, saberia do bem estar do animal e/ou se ele está vivo?
+Imagina que seu investimento tivesse sido roubado?
+
+No Centro Oeste ocorrem mais de 80 mil furtos em propriedades rurais por ano.
+Só em Goiás foram quase 3 mil roubos de animais.
+Sem contar a falta de gerenciamento das condições de saúde dos animais que podem levar a prejuízos e perdas inesperadas...
+
+O Brasil tem o maior rebanho e é o maior exportador de carne bovina do mundo. São 5,4 milhões de toneladas de carne e 155 milhões de m² de couro.
+Nós temos 220 milhões de cabeças de gado  E foram abatidos mais de 2,5 milhões de cabeças de gado só em Goiás.
+O Mercado de bovinocultura de corte no Brasil movimenta 50 bilhões por ano.
+
+Pensando nisso nós da SmartMuu criamos um censor inteligente de monitoramento que capta informações de geolocalização e de predição de doenças e do
+ bem-estar animal formando um dashboard personalizado de informações. 
+Estas informações podem ser integradas a plataformas de gerenciamento através de uma API aberta.
+Com a geração e cruzamento de dados o usuário pode rastrear ao vivo, de qualquer local (inclusive de áreas remotas). 
+Esse rastreamento pode gerar alertas de furtos e auxilia no resgate de animais perdidos ou roubados.
+Ele também possibilita o gerenciamento de cercas virtuais através de alertas sonoros e uma contínua conferência do rebanho. 
+
+=
+A identificação individual do animal carrega informações do seu histórico, a predição de saúde e bem-estar e o registro de vacinação e pesagem.
+Este histórico de iformações podem ser acompanhados pelos frigoríficos, cortumes e até pelo consumidor final com a leitura de uma Tag-FID tendo acesso a um selo de 
+qualidade referente ao cruzamento de dados do histórico do animal.
+Integrado com outras plataformas do governo e da agrodefesa de Goiás cruzamos dados para gerar alertas de vacinação e das melhores épocas do ano para o abate.
+A integração de nossos dados com plataformas de gerenciamento promove mais fluidez no processo de tomada de decisões e elimina inserção de dados com trabalho
+ exclusivamente manual.
+
+Utilizando a tecnologia para atender às necessidades dos nossos clientes oferecemos um upgrade no manejo do rebanho com uma solução mais versátil e completa 
+para proteger seu investimento.
+
+Nossa solução está adiantada e pode ser lançada em poucas semanas. 
+
+Através de um sistema de assinatura pecuarista pode ter acesso ao hardware por comodato e ter acesso às funcionalidades geradas na plataforma. Além disso,
+ ele poderá receber selos de qualidade de cuidado do seu rebanho.
+
+Nossa equipe multiprofissional é composta por skills diversificados que se complementam para alavancar esse mercado da rastreabilidade animal?
+
+SmartMuu - Muunitorando seu churrasco
+
+
+
